@@ -1,0 +1,3 @@
+group { 'yasi': 
+ensure => 'present',
+}
